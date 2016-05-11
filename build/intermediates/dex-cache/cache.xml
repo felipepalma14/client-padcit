@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Roberlândio\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\androidProject\ClientePADCIT\app\build\intermediates\pre-dexed\release\support-annotations-23.0.1-8e235eda17974a9a0d43ffa2c6408ae65d81637c.jar" />
+    </item>
+    <item
+        jar="C:\androidProject\ClientePADCIT\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\androidProject\ClientePADCIT\app\build\intermediates\pre-dexed\release\classes-b136c50d2ae6fc08929e950d7a9a4f52fc7ef403.jar" />
+    </item>
+    <item
+        jar="C:\androidProject\ClientePADCIT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\androidProject\ClientePADCIT\app\build\intermediates\pre-dexed\release\classes-c70c780cb09da04802173444870e9668c076c41d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Roberlândio\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\androidProject\ClientePADCIT\app\build\intermediates\pre-dexed\debug\gson-2.2.4-adbe79eb2239290fffa3b833a890a084c5479f73.jar" />
+    </item>
+    <item
+        jar="C:\androidProject\ClientePADCIT\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\androidProject\ClientePADCIT\app\build\intermediates\pre-dexed\release\classes-883958dcc6211c2281a97541c752b6a0c2f82c3c.jar" />
+    </item>
+    <item
+        jar="C:\androidProject\ClientePADCIT\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\androidProject\ClientePADCIT\app\build\intermediates\pre-dexed\release\internal_impl-23.0.1-74495fcc425853ebc3c0784c335a06dab2639535.jar" />
+    </item>
+
+</items>
