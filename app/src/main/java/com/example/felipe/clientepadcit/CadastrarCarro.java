@@ -1,14 +1,10 @@
 package com.example.felipe.clientepadcit;
 
-import android.app.Dialog;
 import android.app.ProgressDialog;
 import android.os.AsyncTask;
-import android.os.Message;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -17,19 +13,14 @@ import android.widget.Toast;
 import com.example.felipe.clientepadcit.modelo.Carro;
 import com.google.gson.Gson;
 
-import org.json.JSONException;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
-import java.io.UnsupportedEncodingException;
 import java.io.Writer;
 import java.net.HttpURLConnection;
-import java.net.MalformedURLException;
-import java.net.ProtocolException;
 import java.net.URL;
 
 public class CadastrarCarro extends AppCompatActivity {
@@ -106,7 +97,7 @@ public class CadastrarCarro extends AppCompatActivity {
                 urlConnection.setRequestMethod("POST");
                 urlConnection.setRequestProperty("Content-Type", "application/json");
                 urlConnection.setRequestProperty("Accept", "application/json");
-//set headers and method
+            //set headers and method
                 Writer writer = new BufferedWriter(new OutputStreamWriter(urlConnection.getOutputStream(), "UTF-8"));
                 writer.write(jsonData);
 // json data

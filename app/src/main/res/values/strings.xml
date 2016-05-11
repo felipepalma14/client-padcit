@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cliente PADCIT</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_cadastrar_carro">Cadastrar Carro</string>
+    <string name="title_activity_atualizar_carro">Atualizar Carro</string>
+</resources>
